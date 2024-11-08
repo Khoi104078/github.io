@@ -1,0 +1,38 @@
+body
+{
+    font-family: Arial, sans-serif;
+    margin: o;padding: 20px;
+    line-height: 0,6; background-color: silver;
+}
+.container
+{
+    display: flex;width: 90%;max-width: 1000px;
+    margin: auto;
+    border: 3px solid rgb(94, 160, 160); 
+    border-radius: 20px; 
+    overflow: hidden;
+}
+.left
+{
+    width: 40%;padding: 20px;
+    background-color:rgb(110, 19, 195);
+    border-radius: 10px solid white;
+}
+.right
+{
+    width: 60%;padding: 20px;
+    background-color: rgb(17, 106, 183);
+}
+.image
+{
+    max-width: 100%;
+    border-radius: 10%;
+}
+h2
+{
+    color: aquamarine;
+}
+ul
+{
+    color: gold;
+}
